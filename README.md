@@ -4,8 +4,9 @@ I'm a passionate open-source developer focused on macOS and frontend development
 
 ## 🚀 Current Projects
 
-- **[GitCthulhu](https://github.com/jiayun/GitCthulhu)** - A modern macOS Git client built with SwiftUI for an intuitive user experience
+- **[intellij-mcp](https://github.com/jiayun/intellij-mcp)** - A JetBrains IDE plugin that exposes code analysis capabilities via MCP for AI coding assistants like Claude Code
 - **[DevWorkbench](https://github.com/jiayun/DevWorkbench)** - Developer workbench providing toolkit to boost daily development productivity
+- **[GitCthulhu](https://github.com/jiayun/GitCthulhu)** - A modern macOS Git client built with SwiftUI for an intuitive user experience
 
 ## 💻 Tech Stack
 
