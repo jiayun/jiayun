@@ -27,15 +27,17 @@
 - 📝 **[scrivener-rtf](https://github.com/jiayun/scrivener-rtf)** - RTF parser in Rust
 - 📊 **[writing-analysis](https://github.com/jiayun/writing-analysis)** - Writing analysis tools
 - 🎭 **[kojin](https://github.com/jiayun/kojin)** - Personal Rust project
+- 🌐 **[rust](https://github.com/jiayun/rust)** - Rust 文件正體中文翻譯
+- 🌐 **[rfcs](https://github.com/jiayun/rfcs)** - Rust RFCs 正體中文翻譯
 
 ### Libraries
-- 🧩 **[graphql-mixin](https://github.com/jiayun/graphql-mixin)** - GraphQL schema mixin for Kotlin
 - 🤖 **[dramatiq_sqs_batch](https://github.com/jiayun/dramatiq_sqs_batch)** - High-performance batch broker for AWS SQS
 
 ## Work in Progress
 - 🐙 **[GitCthulhu](https://github.com/jiayun/GitCthulhu)** - Modern macOS Git client built with SwiftUI
 
 ## Legacy Work
+- 🧩 **[graphql-mixin](https://github.com/jiayun/graphql-mixin)** - GraphQL schema mixin for Kotlin
 - 📚 **[akka_samples](https://github.com/jiayun/akka_samples)**, **[spring-boot-sample](https://github.com/jiayun/spring-boot-sample)** - Early JVM explorations
 
 ## Connect
