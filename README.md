@@ -1,35 +1,53 @@
-# 👋 Hi, I'm Jiayun!
+# Hi, I'm Jiayun 👋
 
-I'm a passionate open-source developer focused on macOS and frontend development, creating useful development tools and applications.
+📍 **Taiwan** | 🦀 **Rust · MCP · macOS · Open Source**
 
-## 🚀 Current Projects
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- **[intellij-mcp](https://github.com/jiayun/intellij-mcp)** - A JetBrains IDE plugin that exposes code analysis capabilities via MCP for AI coding assistants like Claude Code
-- **[DevWorkbench](https://github.com/jiayun/DevWorkbench)** - Developer workbench providing toolkit to boost daily development productivity
-- **[GitCthulhu](https://github.com/jiayun/GitCthulhu)** - A modern macOS Git client built with SwiftUI for an intuitive user experience
+## Current Projects
 
-## 💻 Tech Stack
+### Developer Tools
+- 🧠 **[intellij-mcp](https://github.com/jiayun/intellij-mcp)** - JetBrains IDE code analysis via MCP for AI coding assistants
+- 🛠️ **[DevWorkbench](https://github.com/jiayun/DevWorkbench)** - Developer toolkit to boost daily productivity
 
-- **Languages**: Swift, TypeScript, Rust, Python, Go
-- **Frameworks**: SwiftUI, React, UIKit
-- **Specialties**: macOS app development, Frontend development, Developer tooling
+### MCP & AI
+- 🔗 **[mcp-relay](https://github.com/jiayun/mcp-relay)** - MCP protocol relay server in Rust
+- ✍️ **[scrivener-mcp](https://github.com/jiayun/scrivener-mcp)** - Scrivener writing app integration via MCP
+- 🧪 **[AgentLab](https://github.com/jiayun/AgentLab)** - AI agent experimentation playground
 
-## 📊 GitHub Stats
+### Rust
+- 📖 **[scrivener-rs](https://github.com/jiayun/scrivener-rs)** - Rust library for Scrivener file format
+- 📝 **[scrivener-rtf](https://github.com/jiayun/scrivener-rtf)** - RTF parser in Rust
+- 📊 **[writing-analysis](https://github.com/jiayun/writing-analysis)** - Writing analysis tools
+- 🎭 **[kojin](https://github.com/jiayun/kojin)** - Personal Rust project
 
-![Jiayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayun&show_icons=true&theme=default)
+### Libraries
+- 🧩 **[graphql-mixin](https://github.com/jiayun/graphql-mixin)** - GraphQL schema mixin for Kotlin
+- 🤖 **[dramatiq_sqs_batch](https://github.com/jiayun/dramatiq_sqs_batch)** - High-performance batch broker for AWS SQS
 
-## ☕ Support My Work
+## Work in Progress
+- 🐙 **[GitCthulhu](https://github.com/jiayun/GitCthulhu)** - Modern macOS Git client built with SwiftUI
+
+## Legacy Work
+- 📚 **[akka_samples](https://github.com/jiayun/akka_samples)**, **[spring-boot-sample](https://github.com/jiayun/spring-boot-sample)** - Early JVM explorations
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@jiayun-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/jiayun)
+[![LinkedIn](https://img.shields.io/badge/-Jiayun_Zhou-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayun-zhou-519b6033/)
+[![Blog](https://img.shields.io/badge/-blog.jiayun.info-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://blog.jiayun.info/)
+[![Rust Blog](https://img.shields.io/badge/-rust.jiayun.info-000000?style=flat-square&logo=rust&logoColor=white)](https://rust.jiayun.info/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiayun)
+
+## ☕ Support
 
 If you find my projects helpful, consider supporting me:
 
-<a href="https://coff.ee/jiayun" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
-
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/jiayun)
-
-Thank you to every supporter who makes the open-source world better ❤️
-
----
-
-*"Write code that matters, build tools that help."*
