@@ -29,6 +29,7 @@
 - 🎭 **[kojin](https://github.com/jiayun/kojin)** - Personal Rust project
 - 🌐 **[rust](https://github.com/jiayun/rust)** - Rust 文件正體中文翻譯
 - 🌐 **[rfcs](https://github.com/jiayun/rfcs)** - Rust RFCs 正體中文翻譯
+- 🌐 **[RustTraining](https://github.com/jiayun/RustTraining)** - Microsoft Rust 訓練課程正體中文翻譯
 
 ### Libraries
 - 🤖 **[dramatiq_sqs_batch](https://github.com/jiayun/dramatiq_sqs_batch)** - High-performance batch broker for AWS SQS
