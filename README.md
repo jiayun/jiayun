@@ -40,6 +40,7 @@
 ## Legacy Work
 - 🧩 **[graphql-mixin](https://github.com/jiayun/graphql-mixin)** - GraphQL schema mixin for Kotlin
 - 📚 **[akka_samples](https://github.com/jiayun/akka_samples)**, **[spring-boot-sample](https://github.com/jiayun/spring-boot-sample)** - Early JVM explorations
+- ☕ **[commons4e](https://github.com/jiayun/commons4e)** - Eclipse commons utility plugin
 
 ## Connect
 
