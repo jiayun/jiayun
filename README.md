@@ -16,6 +16,7 @@
 ### Developer Tools
 - 🧠 **[intellij-mcp](https://github.com/jiayun/intellij-mcp)** - JetBrains IDE code analysis via MCP for AI coding assistants
 - 🛠️ **[DevWorkbench](https://github.com/jiayun/DevWorkbench)** - Developer toolkit to boost daily productivity
+- 🔖 **[GleanMark](https://github.com/jiayun/gleanmark)** - Local-first personal knowledge base with semantic search & Chrome extension
 
 ### MCP & AI
 - 🔗 **[mcp-relay](https://github.com/jiayun/mcp-relay)** - MCP protocol relay server in Rust
