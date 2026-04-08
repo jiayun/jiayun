@@ -22,6 +22,7 @@
 - 🔗 **[mcp-relay](https://github.com/jiayun/mcp-relay)** - MCP protocol relay server in Rust
 - ✍️ **[scrivener-mcp](https://github.com/jiayun/scrivener-mcp)** - Scrivener writing app integration via MCP
 - 🧪 **[AgentLab](https://github.com/jiayun/AgentLab)** - AI agent experimentation playground
+- 🔌 **[claude-plugins](https://github.com/jiayun/claude-plugins)** - Claude Code plugin collection featuring MAGI decision system
 
 ### Rust
 - 📖 **[scrivener-rs](https://github.com/jiayun/scrivener-rs)** - Rust library for Scrivener file format
