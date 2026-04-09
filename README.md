@@ -23,6 +23,7 @@
 - ✍️ **[scrivener-mcp](https://github.com/jiayun/scrivener-mcp)** - Scrivener writing app integration via MCP
 - 🧪 **[AgentLab](https://github.com/jiayun/AgentLab)** - AI agent experimentation playground
 - 🔌 **[claude-plugins](https://github.com/jiayun/claude-plugins)** - Claude Code plugin collection featuring MAGI decision system
+- 🔍 **[inforesearch](https://github.com/jiayun/inforesearch)** - Autonomous research agent in Rust with multi-agent verification (Researcher → Verifier → Summarizer), powered by Ollama
 
 ### Rust
 - 📖 **[scrivener-rs](https://github.com/jiayun/scrivener-rs)** - Rust library for Scrivener file format
