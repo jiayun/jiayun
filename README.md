@@ -28,7 +28,7 @@
 - 📖 **[scrivener-rs](https://github.com/jiayun/scrivener-rs)** - Rust library for Scrivener file format
 - 📝 **[scrivener-rtf](https://github.com/jiayun/scrivener-rtf)** - RTF parser in Rust
 - 📊 **[writing-analysis](https://github.com/jiayun/writing-analysis)** - Writing analysis tools
-- 🎭 **[kojin](https://github.com/jiayun/kojin)** - Personal Rust project
+- 🎭 **[kojin](https://github.com/jiayun/kojin)** - Async distributed task queue for Rust (like Celery/BullMQ), with workflows, cron scheduling, multiple brokers, and observability
 - 🌐 **[rust](https://github.com/jiayun/rust)** - Rust 文件正體中文翻譯
 - 🌐 **[rfcs](https://github.com/jiayun/rfcs)** - Rust RFCs 正體中文翻譯
 - 🌐 **[RustTraining](https://github.com/jiayun/RustTraining)** - Microsoft Rust 訓練課程正體中文翻譯
